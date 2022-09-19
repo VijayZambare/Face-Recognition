@@ -1,0 +1,4 @@
+numpy==1.15.4
+opencv- Python 2.7, 3.4, 3.5 or 3.6
+32- or a 64-bit computer Windows, macOS or Linux. 
+       
